@@ -1,0 +1,80 @@
+/****************************************
+BODY & CONTENT
+*****************************************/
+
+body {
+ background-color: lightgoldenrodyellow;   
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+        text-align: center;
+        font-size: 35px;
+        padding-top: 50px;
+        color: darkgreen
+}
+
+p{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 22px;
+    color:darkolivegreen;
+}
+
+#footer {
+    font-size: 17px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+/****************************************
+DIVS 
+*****************************************/
+#hmheader {
+    height: 100px;
+    background-color: maroon;
+    margin-top: -20px;
+    margin-left: -8px;
+    margin-right: -10px;
+    padding: 50px 100px 20px 50px;
+    text-align: left;
+    color: white;  
+}
+
+/****************************************
+NAV on other pages
+*****************************************/
+#navdecor {
+    background-color: #17202A;
+    margin-top: -17px;
+    height: 60px;
+    margin-right: -10px;
+    margin-left: -10px;
+}
+
+.smallnav {
+    font-size: 20px;
+    padding: 10px;   
+}
+
+ul{
+    text-align: left;
+    padding: 10px 0px 0px 50px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover, a:active {
+    color: darkgreen;
+}
+
